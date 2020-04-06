@@ -1,0 +1,1 @@
+constexpr int SIZE = 3;
